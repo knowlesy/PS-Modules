@@ -1,3 +1,7 @@
+#Ref https://blogs.technet.microsoft.com/heyscriptingguy/2018/09/15/using-powershell-to-create-a-folder-of-demo-data/ 
+#Ref https://mcpmag.com/articles/2016/04/07/powershell-functions-with-parameters.aspx
+# needs to be ran elavated    
+
 function Start-FakeData {
 
        param(
